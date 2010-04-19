@@ -1,0 +1,2 @@
+R153:  :- name(syndrome,X) { list(@humansyndrome) }
+R154:  :- name(syndrome,X) { list(@veterinarysyndrome) }

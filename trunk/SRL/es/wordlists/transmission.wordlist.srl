@@ -1,0 +1,7 @@
+@unknowntransmissionmode_es("modo desconocido")
+@congenital_es("por placenta")
+@contact_es("transmisión por fluido corporal","transmisión por la piel")
+@vehicleborne_es("transmisión por el agua","transmisión por los alimentos","transmisión por otro vehículo","transmisión por tierra")
+@vectorborne_es("transmisión por garrapata","transmisión por mosca","transmisión por mosca de polvo","transmisión por mosca negra","transmisión por mosca tse - tsé","transmisión por mosquito","transmisión por piojo","transmisión por pulga","transmisión por zancudo","transmisión por ácaro")
+@airdropletborne_es("transmisión por el aire")
+@dropletborne_es("transmisión por gota")

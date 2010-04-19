@@ -1,0 +1,15 @@
+R138:  :- name(disease,X) { list(@aviandisease) }
+R139:  :- name(disease,X) { list(@beedisease) }
+R140:  :- name(disease,X) { list(@bovinedisease) }
+R141:  :- name(disease,X) { list(@caninedisease) }
+R142:  :- name(disease,X) { list(@caprinedisease) }
+R143:  :- name(disease,X) { list(@cervinedisease) }
+R144:  :- name(disease,X) { list(@equinedisease) }
+R145:  :- name(disease,X) { list(@felinedisease) }
+R146:  :- name(disease,X) { list(@fishdisease) }
+R147:  :- name(disease,X) { list(@humandisease) }
+R148:  :- name(disease,X) { list(@lagomorphdisease) }
+R149:  :- name(disease,X) { list(@non_humanprimatedisease) }
+R150:  :- name(disease,X) { list(@otherdisease) }
+R151:  :- name(disease,X) { list(@rodentdisease) }
+R152:  :- name(disease,X) { list(@swinedisease) }

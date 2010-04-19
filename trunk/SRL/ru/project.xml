@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE srlproject [
+	<!ELEMENT srlproject (description, corpus, entities, entity_rulesets, template_rulesets, wordlists)>
+	<!ELEMENT description (#PCDATA)>
+	<!ATTLIST srlproject name CDATA #REQUIRED>
+	<!ELEMENT entity_rulesets (ruleset*)>
+	<!ELEMENT template_rulesets (ruleset*)>
+	<!ELEMENT wordlists (wordlist*)>
+	<!ELEMENT corpus EMPTY>
+	<!ATTLIST corpus processor CDATA #REQUIRED>
+	<!ELEMENT ruleset (#PCDATA)>
+	<!ELEMENT wordlist (#PCDATA)>
+	<!ELEMENT entities (entity*)>
+	<!ELEMENT entity (type,val)>
+	<!ELEMENT type (#PCDATA)>
+	<!ELEMENT val (#PCDATA)>
+]>
+<srlproject name="">
+<description></description>
+	<corpus processor="Russian"/>
+	<entities>
+	</entities>
+	<entity_rulesets>
+		<ruleset>condition</ruleset>
+		<ruleset>symptom</ruleset>
+		<ruleset>disease</ruleset>
+		<ruleset>syndrome</ruleset>
+		<ruleset>time</ruleset>
+		<ruleset>case</ruleset>
+		<ruleset>therapeutic</ruleset>
+		<ruleset>transmission</ruleset>
+		<ruleset>region</ruleset>
+		<ruleset>anatomy</ruleset>
+		<ruleset>animalia</ruleset>
+		<ruleset>fungus</ruleset>
+		<ruleset>heterokont</ruleset>
+		<ruleset>plantae</ruleset>
+		<ruleset>protozoan</ruleset>
+		<ruleset>bacterium</ruleset>
+		<ruleset>uncertain_microorganism</ruleset>
+		<ruleset>virus</ruleset>
+		<ruleset>dna</ruleset>
+		<ruleset>product</ruleset>
+		<ruleset>protein</ruleset>
+		<ruleset>rna</ruleset>
+		<ruleset>puresubstance</ruleset>
+		<ruleset>control</ruleset>
+		<ruleset>outbreak</ruleset>
+	</entity_rulesets>
+	<template_rulesets>
+	</template_rulesets>
+	<wordlists>
+		<wordlist>condition</wordlist>
+		<wordlist>symptom</wordlist>
+		<wordlist>disease</wordlist>
+		<wordlist>syndrome</wordlist>
+		<wordlist>time</wordlist>
+		<wordlist>case</wordlist>
+		<wordlist>therapeutic</wordlist>
+		<wordlist>transmission</wordlist>
+		<wordlist>region</wordlist>
+		<wordlist>anatomy</wordlist>
+		<wordlist>animalia</wordlist>
+		<wordlist>fungus</wordlist>
+		<wordlist>heterokont</wordlist>
+		<wordlist>plantae</wordlist>
+		<wordlist>protozoan</wordlist>
+		<wordlist>bacterium</wordlist>
+		<wordlist>uncertain_microorganism</wordlist>
+		<wordlist>virus</wordlist>
+		<wordlist>dna</wordlist>
+		<wordlist>product</wordlist>
+		<wordlist>protein</wordlist>
+		<wordlist>rna</wordlist>
+		<wordlist>puresubstance</wordlist>
+		<wordlist>control</wordlist>
+		<wordlist>outbreak</wordlist>
+	</wordlists>
+</srlproject>

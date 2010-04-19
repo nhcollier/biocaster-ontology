@@ -1,0 +1,7 @@
+@dropletborne_ko("작은 물방울 매개성")
+@vehicleborne_ko("기타 매개성","물 매개성","음식 매개성","토양 매개성")
+@congenital_ko("태반 경유성")
+@airdropletborne_ko("공기 매개성")
+@contact_ko("체액 매개성","피부 매개성")
+@vectorborne_ko("눈에놀이 매개성","모기 매개성","바퀴벌레 매개성","벼룩 매개성","이 매개성","진드기 매개성","진디등에 매개성","체체파리 매개성","침노린재 매개성","파리 매개성")
+@unknowntransmissionmode_ko("")

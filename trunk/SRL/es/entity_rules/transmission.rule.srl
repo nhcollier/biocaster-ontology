@@ -1,0 +1,7 @@
+R155:  :- name(transmission,X) { list(@congenital) }
+R156:  :- name(transmission,X) { list(@contact) }
+R157:  :- name(transmission,X) { list(@dropletborne) }
+R158:  :- name(transmission,X) { list(@airdropletborne) }
+R159:  :- name(transmission,X) { list(@vectorborne) }
+R160:  :- name(transmission,X) { list(@vehicleborne) }
+R161:  :- name(transmission,X) { list(@unknowntransmissionmode) }

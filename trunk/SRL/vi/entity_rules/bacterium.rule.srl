@@ -1,0 +1,1 @@
+R188:  :- name(bacterium,X) { list(@bacterium) }

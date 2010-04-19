@@ -1,0 +1,7 @@
+@airdropletborne_ja("空気伝染","空気感染","風 媒性")
+@congenital_ja("胎盤 を 通 して","胎盤 を 通じ","胎盤 を 通じて")
+@unknowntransmissionmode_ja("媒介 不明")
+@vectorborne_ja("しらみ 媒介","ゴキブリ 媒介","サシガメ 媒介","ダニ 媒介","ツェツェバエ 媒介","ブユ 媒介","マダニ 媒介","刺亀虫 媒介","蚊 媒介","蚤 媒介","蠅 媒介")
+@dropletborne_ja("液的 感染")
+@contact_ja("体液 媒介","皮膚 の接触 の 媒介")
+@vehicleborne_ja("他 の物 の 媒介","土壌伝播性","飲 食 に 起因する","飲用水 媒介")
