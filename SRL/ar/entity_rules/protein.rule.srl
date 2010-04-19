@@ -1,0 +1,1 @@
+R191:  :- name(protein,X) { list(@prion) }

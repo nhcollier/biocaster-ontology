@@ -1,0 +1,7 @@
+@vehicleborne_id("tularan air","tularan makanan","tularan tanah","tularan wahana lainnya")
+@congenital_id("via plasenta")
+@dropletborne_id("tularan tetesan")
+@contact_id("tularan cairan tubuh","tularan kulit")
+@unknowntransmissionmode_id("bentuk yang tidak diketahui")
+@vectorborne_id("tularan agas / nyamuk kecil","tularan agas hitam","tularan caplak","tularan kecoa","tularan kutu","tularan kutu reduviidi","tularan lalat","tularan lalat tsetse","tularan nyamuk","tularan serangga kecil","tularan tungau / kutu kecil")
+@airdropletborne_id("tularan udara")

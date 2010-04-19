@@ -1,0 +1,7 @@
+@vectorborne_en("black fly borne","cockroach borne","flea borne","fly borne","louse borne","midge borne","mite borne","mosquito borne","reduviid bug borne","sandfly borne","tick borne","tsetse fly borne","wood tick")
+@airdropletborne_en("airborne")
+@unknowntransmissionmode_en("difficult - to - explain transmission mode","hard - to - explain transmission mode","mysterious mode of disease transmission","mysterious mode of transmission","mysterious transmission mode","unclassified transmission mode","undetermined mode","undetermined mode of transmission","unexplainable transmission mode","unknown mode","unknown mode of disease transmission","unknown transmission mode")
+@vehicleborne_en("foodborne","other vehicle borne","soil borne","waterborne")
+@contact_en("body fluid borne","skin borne")
+@congenital_en("via _ placenta")
+@dropletborne_en("droplet borne")

@@ -1,0 +1,1 @@
+R185:  :- name(fungus,X) { list(@fungus) }

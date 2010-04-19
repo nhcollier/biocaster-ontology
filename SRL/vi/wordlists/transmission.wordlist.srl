@@ -1,0 +1,7 @@
+@congenital_vi("nhau thai")
+@contact_vi("lây bệnh qua chất thải","lây bệnh qua tiếp xúc da")
+@vehicleborne_vi("lây bệnh qua các phương tiên khác","lây bệnh qua nước","lây bệnh qua đường thức ăn","lây bệnh qua đất")
+@vectorborne_vi("do gián gây ra","do muỗi vằn gây ra","do ruồi gây ra","do ruồi têxê gây ra","do ruồi đe gây ra","do rận gây ra","do rệp có cánh reduviid gây ra","lây bệnh qua muỗi","lây bệnh qua mạt","lây bệnh qua ve")
+@dropletborne_vi("lây bệnh qua hạt nhỏ")
+@unknowntransmissionmode_vi("kiểu chưa biết")
+@airdropletborne_vi("lây bệnh qua không khí")

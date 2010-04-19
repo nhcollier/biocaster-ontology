@@ -1,0 +1,7 @@
+@dropletborne_ms("merebak melalui droplet")
+@vehicleborne_ms("cara penyebaran yang lain","merebak melalui air","merebak melalui makanan","merebak melalui tanah")
+@contact_ms("merebak melalui cecair tubuh","merebak melalui kulit")
+@congenital_ms("merebak melalui plasenta")
+@airdropletborne_ms("merebak melalui udara")
+@vectorborne_ms("merebak melalui kumbang reduviid","merebak melalui kutu","merebak melalui lalat","merebak melalui lalat hitam","merebak melalui lalat tanah","merebak melalui lalat tes","merebak melalui lipas","merebak melalui louse","merebak melalui midge","merebak melalui pijat","merebak melalui tungau")
+@unknowntransmissionmode_ms("tidak tahu")

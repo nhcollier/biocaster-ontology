@@ -1,0 +1,1 @@
+R189:  :- name(uncertain_microorganism,X) { list(@uncertain_microorganism) }

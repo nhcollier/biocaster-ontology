@@ -1,0 +1,1 @@
+R186:  :- name(heterokont,X) { list(@heterokont) }

@@ -1,0 +1,7 @@
+@unknowntransmissionmode_fr("mode inconnu")
+@contact_fr("maladie vectorielle à corps fluide","maladie vectorielle à peau")
+@vehicleborne_fr("maladie vectorielle à aliment","maladie vectorielle à autres véhicules","maladie vectorielle à eau","maladie vectorielle à terre")
+@airdropletborne_fr("aéroporté")
+@congenital_fr("via - placenta")
+@vectorborne_fr("maladie vectorielle à acarien","maladie vectorielle à cafard","maladie vectorielle à instecte reduviidae","maladie vectorielle à mouche","maladie vectorielle à mouche tsé - tsé","maladie vectorielle à moucheron","maladie vectorielle à moustique","maladie vectorielle à phlébotome","maladie vectorielle à puce","maladie vectorielle à tique")
+@dropletborne_fr("maladie vectorielle à goutte d'eau")

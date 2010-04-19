@@ -1,0 +1,7 @@
+@contact_zh-Hans("体 液 传 播","皮 肤 传 播")
+@vehicleborne_zh-Hans("其 他 媒 介 传 播","土 壤 传 播","水 传 播","食 物 传 播")
+@vectorborne_zh-Hans("摇 蚊 传 播","美 国 森 林 蜱","苍 蝇 传 播","虱 传 播","蚤 传 播","蜱 传 播","螨 传 播","采 采 蝇 传 播","食 虫 椿 象 科 昆 虫 传 播","黑 蚊 传 播")
+@dropletborne_zh-Hans("液 滴 传 播")
+@unknowntransmissionmode_zh-Hans("未 知 模 式")
+@airdropletborne_zh-Hans("空 气 传 播")
+@congenital_zh-Hans("经 由 胎 盘")
