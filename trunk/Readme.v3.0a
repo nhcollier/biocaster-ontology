@@ -1,0 +1,41 @@
+Biocaster Ontology v3.0a README 
+
+Version 3.0a is still very much a work in progress but is released as a pre-beta in the hope that it will be useful and to solicit feedback and corrections. The known issues we are currently working on are listed below.
+
+More information on the methods and sources used to construct the ontology can be found in:
+
+[1] Collier, N., Matsuda-Goodwin, R., McCrae, J., Doan, S., Kawazoe, A., Conway, M., Kawtrakul, A., Takeuchi, K. and Dien, D. (2010), .An ontology-driven system for detecting global health events., Proc. 23rd International Conference on Computational Linguistics (COLING), Beijing, China, August 23-27.
+
+[2] Collier, N., Kawazoe, A., Jin, L., Shigematsu, M., Dien, D. Barrero, R., Takeuchi , K.and Kawtrakul, A. (2007), .A multilingual ontology for infectious disease surveillance: rationale, design and challenges., Language Resources and Evaluation, Elsevier, DOI: 10.1007/s10579-007-9019-7.
+
+Issues
+------
+
+a) Translation verification
+
+Newly added terms for several languages still need to be verified.  These include: Arabic, French, Indonesian, Korean, Malay, Spanish, Vietnamese and Chinese.  
+
+b) Species identifiers for symptoms
+
+Human symptoms are still being renamed as "symtom (human)".
+
+c) Single species specific diseases
+
+These are currently exceptions to the "disease (species)" naming convention as there is no ambiguity.
+
+d) Terms requiring translation
+
+A few terms still require translation, e.g. Difficulty swallowing (human);  these are under consideration.
+
+e) Animal disease symptoms
+
+We are now working to expand the symptoms for animal diseases in line with veterinary sources.
+
+f) External links
+
+Several require verifying and are now likely stale, including MeSH (e.g. Marek Disease which has a dead link) and Pathport. 
+
+g) SUMO links
+
+Concepts from SUMO need to be properly linked to their SUMO identifiers.
+
